@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning new full stacks
 
 
-<!---
-ChamudikaDeSilva/ChamudikaDeSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ✨*Tech Stack* ✨ 
+   C, C# ,C++, CSS3, HTML5, Java, Springboot, JavaScript, PHP, Matlab, Angular, Bootstrap, Laravel, NodeJS,
+   Apache, MySQL, Axure, Figma, Restful Java, 
