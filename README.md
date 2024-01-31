@@ -5,5 +5,5 @@
 
  ✨*Tech Stack* ✨ 
  
-    HTML5, CSS3, Bootstrap, JavaScript, Ajax, Jquery, AngularJS, PHP, Laravel, MySQL, Apache, Angular, Springboot, NodeJS,
+    HTML5, CSS3, Bootstrap, JavaScript,Java, Ajax, Jquery, AngularJS, PHP, Laravel, MySQL, Apache, Angular, Springboot, 
     Axure, Figma, C, C# ,C++
