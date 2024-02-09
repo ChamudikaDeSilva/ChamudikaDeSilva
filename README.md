@@ -11,7 +11,8 @@ Tools & Platforms: Git, GitHub, Docker, AWS, Heroku
 I've worked on a variety of projects, ranging from e-commerce platforms to enterprise-grade applications. My experience includes building RESTful APIs, implementing responsive and intuitive user interfaces, optimizing application performance, and ensuring security best practices.
 
 📚 Education:
-Bachelor Of Science in Information Technology University Of Jaffna
+Bachelor Of Science in Information Technology
+University Of Jaffna
 2020-2023
 
 🌟Expertised Stacks,methodologies and frameworks:
