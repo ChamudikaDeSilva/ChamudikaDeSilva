@@ -3,9 +3,9 @@
 🔧 Technologies & Tools:
 Front-end: React, Angular
 Back-end: Laravel, Spring Boot, Node.js
-Databases: MongoDB, MySQL, PostgreSQL
-Other Technologies: HTML, CSS, JavaScript, TypeScript, Redux, GraphQL
-Tools & Platforms: Git, GitHub, Docker, AWS, Heroku
+Databases: MongoDB, MySQL
+Other Technologies: HTML, CSS, JavaScript, TypeScript
+Tools & Platforms: Git, GitHub, Docker, AWS
 
 💼 Experience:
 I've worked on a variety of projects, ranging from e-commerce platforms to enterprise-grade applications. My experience includes building RESTful APIs, implementing responsive and intuitive user interfaces, optimizing application performance, and ensuring security best practices.
