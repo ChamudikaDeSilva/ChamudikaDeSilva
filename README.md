@@ -1,7 +1,7 @@
 👋 Hi there! I'm Chamudika De Silva, a passionate Full Stack Software Engineer with expertise in crafting robust and scalable web applications. With a strong foundation in both front-end and back-end development, I specialize in mastering modern frameworks such as Laravel, React, Angular, Spring Boot, and the MERN stack (MongoDB, Express.js, React, Node.js).
 
 🔧 Technologies & Tools:
-Front-end: React, Angular
+Front-end: React, Angular, Vue
 Back-end: Laravel, Spring Boot, Node.js
 Databases: MongoDB, MySQL
 Other Technologies: HTML, CSS, JavaScript, TypeScript
