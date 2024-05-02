@@ -33,5 +33,5 @@ Happy coding! 🚀
 
  ✨*Tech Stack* ✨ 
  
-    HTML5, CSS3, Bootstrap, JavaScript,Java, Ajax, Jquery, AngularJS, PHP, Laravel, MySQL, Apache, Angular, Springboot, 
-    Axure, Figma, C, C# ,C++, MERN stack
+    C, C# ,C++, HTML5, CSS3, JavaScript, Ajax, Jquery, AngularJS, Bootstrap, Angular,React, Vue, Java, Springboot, PHP, Laravel, MySQL, Apache,   
+    Axure, Figma, MERN stack, AWS, Docker
