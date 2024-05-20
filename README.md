@@ -14,6 +14,7 @@ I've worked on a variety of projects, ranging from e-commerce platforms to enter
 Bachelor Of Science in Information Technology
 University Of Jaffna
 2020-2023
+Second Class
 
 🌟Expertised Stacks,methodologies and frameworks:
 Full Stack Development
