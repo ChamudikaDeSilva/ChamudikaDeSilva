@@ -4,37 +4,27 @@ I'm a passionate Full Stack Software Engineer with expertise in crafting robust 
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience & 🌟 Expertise
 
-I've been involved in a variety of projects, including:
-- **E-commerce Platforms**
-- **Enterprise-grade Applications**
-
-### Key Responsibilities
-- Building and maintaining **RESTful APIs**
-- Creating **responsive and intuitive user interfaces**
-- **Optimizing application performance**
+I've worked on various projects including e-commerce platforms and enterprise applications. My key responsibilities and areas of expertise include:
+- Full Stack Development
+- Building **RESTful APIs**
+  - MERN Stack (MongoDB, Express.js, React, Node.js)
+- Creating **responsive UIs**
+  - React, Angular, Vue
+- **Optimizing performance**
+  - Laravel, Spring Boot, Node.js
 - Ensuring **security best practices**
+- Database Design and Management
+- Responsive Web Design
+- Agile Development Methodologies
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science in Information Technology**
-- University of Jaffna
-- 2020-2023 (Second Class Honors)
-
----
-
-## 🌟 Expertise
-
-- **Full Stack Development**
-- **Laravel, React, Angular, Spring Boot**
-- **MERN Stack (MongoDB, Express.js, React, Node.js)**
-- **RESTful APIs**
-- **Database Design and Management**
-- **Responsive Web Design**
-- **Agile Development Methodologies**
+**B.Sc. in Information Technology**
+- University of Jaffna (2020-2023)
 
 ---
 
