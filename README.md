@@ -23,8 +23,8 @@ I've worked on various projects including e-commerce platforms and enterprise ap
 
 ## 🎓 Education
 
-**B.Sc. in Information Technology**
-- University of Jaffna (2020-2023)
+**BSc. in Information Technology**
+- University of Jaffna (2020-2023)(Second Class)
 
 ---
 
