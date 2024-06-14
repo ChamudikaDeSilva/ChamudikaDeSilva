@@ -10,8 +10,17 @@
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </a>
 
-I'm a passionate Full Stack Software Engineer with expertise in crafting robust and scalable web applications. I have a strong foundation in both front-end and back-end development, specializing in modern frameworks and technologies.
+- 🌐 Web Development: Developing innovative and user-centric web applications.
+- 💡 Problem Solving: Expertise in identifying and implementing effective solutions to complex technical challenges.
+- 💼 Available for freelancing and collaboration opportunities.
+- 🚀 Expertise in building scalable and maintainable applications.
+- 📫 How to reach me: **hasinichamudika@gmail.com**
+
 <br/>
+
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3>
+
+---
 
 ## 💼 Experience & 🌟 Expertise
 
