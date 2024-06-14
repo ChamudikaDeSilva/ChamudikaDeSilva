@@ -6,25 +6,12 @@ I'm a passionate Full Stack Software Engineer with expertise in crafting robust 
 
 ## 🛠️ Technologies & Tools
 
-### Front-end
-- **React**
-- **Angular**
-- **Vue**
-
-### Back-end
-- **Laravel**
-- **Spring Boot**
-- **Node.js**
-
-### Databases
-- **MongoDB**
-- **MySQL**
-
-### Others
-- **HTML, CSS, JavaScript, TypeScript**
-- **Git, GitHub**
-- **Docker**
-- **AWS**
+| Front-end     | Back-end      | Databases | Others                |
+| ------------- | ------------- | --------- | --------------------- |
+| React         | Laravel       | MongoDB   | HTML, CSS             |
+| Angular       | Spring Boot   | MySQL     | JavaScript, TypeScript|
+| Vue           | Node.js       |           | Git, GitHub           |
+|               |               |           | Docker, AWS           |
 
 ---
 
