@@ -27,22 +27,7 @@
 
 ---
 
-## 💼 Experience & 🌟 Expertise
 
-I've worked on various projects including e-commerce platforms and enterprise applications. My key responsibilities and areas of expertise include:
-- **Full Stack Development**
-- **Building RESTful APIs**
-  - MERN Stack (MongoDB, Express.js, React, Node.js)
-- **Creating Responsive UIs**
-  - React, Angular, Vue
-- **Optimizing Performance**
-  - Laravel, Spring Boot, Node.js
-- **Ensuring Security Best Practices**
-- **Database Design and Management**
-- **Responsive Web Design**
-- **Agile Development Methodologies**
-
----
 
 ## 🎓 Education
 
