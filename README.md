@@ -10,11 +10,6 @@
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </a>
 
-![ChamudikaDeSilva's Stats](https://github-readme-stats.vercel.app/api?username=ChamudikaDeSilva&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![ChamudikaDeSilva's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChamudikaDeSilva&theme=vue-dark&hide_border=true)
-
-![ChamudikaDeSilva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamudikaDeSilva&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=sfdgsdf&label=Profile%20views&color=0e75b6&style=flat" alt="sfdgsdf" /> </p-->
  
@@ -84,6 +79,13 @@ University of Jaffna (2020-2023) (Second Class)
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker)
 
 ---
+
+![ChamudikaDeSilva's Stats](https://github-readme-stats.vercel.app/api?username=ChamudikaDeSilva&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![ChamudikaDeSilva's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChamudikaDeSilva&theme=vue-dark&hide_border=true)
+
+![ChamudikaDeSilva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamudikaDeSilva&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 Feel free to explore my repositories and reach out if you have any questions or opportunities for collaboration!
 
