@@ -10,6 +10,8 @@
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </a>
 
+![ChamudikaDeSilva's Stats](https://github-readme-stats.vercel.app/api?username=ChamudikaDeSilva&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=sfdgsdf&label=Profile%20views&color=0e75b6&style=flat" alt="sfdgsdf" /> </p-->
  
 
