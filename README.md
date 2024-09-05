@@ -10,6 +10,10 @@
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sfdgsdf&label=Profile%20views&color=0e75b6&style=flat" alt="sfdgsdf" /> </p>
+ 
+
+
 - 🌐 Web Development: Developing innovative and user-centric web applications.
 - 💡 Problem Solving: Expertise in identifying and implementing effective solutions to complex technical challenges.
 - 💼 Available for freelancing and collaboration opportunities.
