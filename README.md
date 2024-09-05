@@ -10,7 +10,7 @@
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sfdgsdf&label=Profile%20views&color=0e75b6&style=flat" alt="sfdgsdf" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=sfdgsdf&label=Profile%20views&color=0e75b6&style=flat" alt="sfdgsdf" /> </p-->
  
 
 
